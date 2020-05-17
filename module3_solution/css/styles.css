@@ -1,0 +1,64 @@
+body{
+	font-size:16px;
+	color:black;
+	background-color: white;
+}
+#header-nav{
+	background-color: gray;
+	border-radius: 0;
+	border: 2px solid black;
+}
+
+.navbar-brand h1{
+	color:black;
+	font-size: 1.5em;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: 0;
+	line-height:.75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus{
+	text-decoration: none;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+	border:2px solid black;
+}
+
+#nav-list{
+	margin-top: 0;
+	margin-bottom: 0;
+	border-top:2px solid black;
+
+	text-align:center;
+	background-color: white;
+}
+#nav-list span{
+	font-size: 1.2em;
+}
+li{
+	border:1px solid black;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+#nav-list hr{
+	color:black;
+}
+.container h2{
+	font-family: 'Balsamiq Sans', cursive;
+}
+.row{
+	margin: 25px 10px 25px 10px;
+	font-weight: bold;
+	height: 1200px;
+	background-color:rgb(150,23,192);
+	overflow: hidden;
+}
+.row h3{
+	font-family: 'Fira Sans', sans-serif;
+}
+p{
+	padding:15px;
+	font-family: 'Nunito', sans-serif;
+	font-weight: normal;
+}
+
